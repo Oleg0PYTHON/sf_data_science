@@ -24,9 +24,10 @@
 
 ### Информация о данных
 База данных резюме, выгруженная с сайта поиска вакансий hh.ru:
+https://drive.google.com/file/d/1qeBAHc4-zrtIzw77l0gAlhVlP0r1jeym/view?usp=sharing
 
 Курсы валют:
-
+https://drive.google.com/file/d/1GappjgVYloWlok8JDn8xhS4oFrpUofop/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/Oleg0PYTHON/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
