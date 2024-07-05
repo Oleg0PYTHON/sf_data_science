@@ -46,8 +46,4 @@ https://drive.google.com/file/d/1GappjgVYloWlok8JDn8xhS4oFrpUofop/view?usp=shari
 
 :arrow_up:[к оглавлению](https://github.com/Oleg0PYTHON/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
-
-:arrow_up:[к оглавлению](https://github.com/Oleg0PYTHON/sf_data_science/blob/main/project_1/README.md#Оглавление)
-
-
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
