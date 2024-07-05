@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме из HeadHunter
+# Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Oleg0PYTHON/sf_data_science/blob/main/project_2/README.md#Описание-проекта)  
